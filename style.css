@@ -193,3 +193,6 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
 }
+.container {
+text-align: center;  
+}
